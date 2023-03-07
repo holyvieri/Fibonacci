@@ -11,7 +11,7 @@ Inicio
   Retorne N3
 FimFuncao
 Inicio
-Escreva "A sucessão do matemático Fibonacci toma forma ao passo em que o termo subsequente, inteiro, é a soma dos seus dois termos anteriores: "
+Escreva ("A sucessão do matemático Fibonacci toma forma ao passo em que o termo subsequente, inteiro, é a soma dos seus dois termos anteriores: ")
   T1 <- 0
   EscrevaL (T1)
   T2 <- 1
