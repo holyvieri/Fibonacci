@@ -10,7 +10,7 @@ Inicio
   B := C
 FimProcedimento
 Inicio
-  Escreva "Esta é a sucessão de Leonardo Pisa vulgo Fibonacci: "
+  Escreva ("Esta é a sucessão de Leonardo Pisa vulgo Fibonacci: ")
   N1 <- 0
   EscrevaL (N1)
   N2 <- 1
